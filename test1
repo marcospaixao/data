@@ -1,0 +1,3449 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47565,
+        "lg_seg_id": 53268,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 953,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 1055,
+        "lg_ordem": 38,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65165588,
+              -23.548860989999998
+            ],
+            [
+              -46.651494959999994,
+              -23.54880501
+            ],
+            [
+              -46.651240079999994,
+              -23.548716
+            ],
+            [
+              -46.650561839999995,
+              -23.548499009999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47588,
+        "lg_seg_id": 55771,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 132,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 162,
+        "lg_fim_imp": 0,
+        "lg_ordem": 65,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64271888,
+              -23.54787099
+            ],
+            [
+              -46.642592879999995,
+              -23.547922019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47571,
+        "lg_seg_id": 53360,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 785,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 953,
+        "lg_ordem": 41,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.650561839999995,
+              -23.548499009999997
+            ],
+            [
+              -46.649013839999995,
+              -23.548012019999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47611,
+        "lg_seg_id": 300700,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 3006,
+        "lg_ini_imp": 3007,
+        "lg_fim_par": 3168,
+        "lg_fim_imp": 3169,
+        "lg_ordem": 5,
+        "lg_or_geom": "",
+        "classifica": "COLETORA",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.66777704,
+              -23.560237979999997
+            ],
+            [
+              -46.667637,
+              -23.56010199
+            ],
+            [
+              -46.666735919999994,
+              -23.55923502
+            ],
+            [
+              -46.666697039999995,
+              -23.559195959999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47608,
+        "lg_seg_id": 300685,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 760,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 784,
+        "lg_fim_imp": 0,
+        "lg_ordem": 42,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64903508,
+              -23.547858029999997
+            ],
+            [
+              -46.64854584,
+              -23.54764797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47553,
+        "lg_seg_id": 41742,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65652812,
+              -23.551417979999997
+            ],
+            [
+              -46.65668616,
+              -23.551317989999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47580,
+        "lg_seg_id": 54565,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2876,
+        "lg_ini_imp": 2877,
+        "lg_fim_par": 3006,
+        "lg_fim_imp": 3007,
+        "lg_ordem": 6,
+        "lg_or_geom": "",
+        "classifica": "COLETORA",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#1e00ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.666697039999995,
+              -23.559195959999997
+            ],
+            [
+              -46.666622159999996,
+              -23.55911901
+            ],
+            [
+              -46.666132919999995,
+              -23.55865704
+            ],
+            [
+              -46.665816119999995,
+              -23.558352029999998
+            ],
+            [
+              -46.665775079999996,
+              -23.55831198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47576,
+        "lg_seg_id": 53802,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.646044919999994,
+              -23.54719896
+            ],
+            [
+              -46.646412839999996,
+              -23.54718402
+            ],
+            [
+              -46.64662308,
+              -23.547186
+            ],
+            [
+              -46.646722079999996,
+              -23.54719698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47589,
+        "lg_seg_id": 56461,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 132,
+        "lg_fim_imp": 0,
+        "lg_ordem": 68,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.642592879999995,
+              -23.547922019999998
+            ],
+            [
+              -46.64225484,
+              -23.547891959999998
+            ],
+            [
+              -46.64143188,
+              -23.547743009999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47569,
+        "lg_seg_id": 53290,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 2071,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 2171,
+        "lg_ordem": 23,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.660794839999994,
+              -23.55403302
+            ],
+            [
+              -46.660509,
+              -23.55379398
+            ],
+            [
+              -46.660166999999994,
+              -23.553549989999997
+            ],
+            [
+              -46.65993912,
+              -23.55339897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47570,
+        "lg_seg_id": 53292,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 1400,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 1420,
+        "lg_fim_imp": 0,
+        "lg_ordem": 32,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.654769879999996,
+              -23.55029901
+            ],
+            [
+              -46.654632,
+              -23.55021999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47559,
+        "lg_seg_id": 43589,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 484,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 504,
+        "lg_fim_imp": 0,
+        "lg_ordem": 56,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.646465039999995,
+              -23.54707503
+            ],
+            [
+              -46.646227079999996,
+              -23.54707899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47574,
+        "lg_seg_id": 53535,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 2521,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 2571,
+        "lg_ordem": 10,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.66370688,
+              -23.55628797
+            ],
+            [
+              -46.66367304,
+              -23.55626997
+            ],
+            [
+              -46.663397999999994,
+              -23.556116969999998
+            ],
+            [
+              -46.66321799999999,
+              -23.55600204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47607,
+        "lg_seg_id": 300684,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 1300,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 1400,
+        "lg_fim_imp": 0,
+        "lg_ordem": 33,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.654632,
+              -23.55021999
+            ],
+            [
+              -46.653822,
+              -23.54976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47606,
+        "lg_seg_id": 300683,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 1420,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 1646,
+        "lg_fim_imp": 0,
+        "lg_ordem": 30,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65668616,
+              -23.551317989999998
+            ],
+            [
+              -46.655294039999994,
+              -23.55059601
+            ],
+            [
+              -46.654769879999996,
+              -23.55029901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47594,
+        "lg_seg_id": 56466,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 453,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 463,
+        "lg_ordem": 59,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64592396,
+              -23.547348
+            ],
+            [
+              -46.645819919999994,
+              -23.547369959999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47578,
+        "lg_seg_id": 53804,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 661,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 671,
+        "lg_ordem": 46,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.647866879999995,
+              -23.547634019999997
+            ],
+            [
+              -46.64777004,
+              -23.54760099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47568,
+        "lg_seg_id": 53289,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 1951,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 2071,
+        "lg_ordem": 25,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65993912,
+              -23.55339897
+            ],
+            [
+              -46.65932496,
+              -23.55299298
+            ],
+            [
+              -46.659094919999994,
+              -23.552835029999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47573,
+        "lg_seg_id": 53533,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 1160,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 1300,
+        "lg_fim_imp": 0,
+        "lg_ordem": 36,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.653822,
+              -23.54976
+            ],
+            [
+              -46.653257159999995,
+              -23.549438969999997
+            ],
+            [
+              -46.652419079999994,
+              -23.54896899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47584,
+        "lg_seg_id": 54833,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64798388,
+              -23.547175019999997
+            ],
+            [
+              -46.64800511999999,
+              -23.54722803
+            ],
+            [
+              -46.648037159999994,
+              -23.547267989999998
+            ],
+            [
+              -46.64831796,
+              -23.54747796
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47560,
+        "lg_seg_id": 44428,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 3496,
+        "lg_ini_imp": 3497,
+        "lg_fim_par": 3802,
+        "lg_fim_imp": 3803,
+        "lg_ordem": 1,
+        "lg_or_geom": "",
+        "classifica": "COLETORA",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.672003079999996,
+              -23.564280959999998
+            ],
+            [
+              -46.671921,
+              -23.564204999999998
+            ],
+            [
+              -46.671509879999995,
+              -23.563802969999998
+            ],
+            [
+              -46.67036795999999,
+              -23.562712979999997
+            ],
+            [
+              -46.66996116,
+              -23.562323999999997
+            ],
+            [
+              -46.669924079999994,
+              -23.562288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47555,
+        "lg_seg_id": 41761,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.646465039999995,
+              -23.54707503
+            ],
+            [
+              -46.646677079999996,
+              -23.546939039999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47615,
+        "lg_seg_id": 306594,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64682396,
+              -23.54732001
+            ],
+            [
+              -46.646722079999996,
+              -23.54719698
+            ],
+            [
+              -46.64667995999999,
+              -23.547070979999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47617,
+        "lg_seg_id": 306597,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.645260119999996,
+              -23.54730201
+            ],
+            [
+              -46.645310159999994,
+              -23.54748102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47616,
+        "lg_seg_id": 306595,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 454,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 464,
+        "lg_fim_imp": 0,
+        "lg_ordem": 53,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64556792,
+              -23.54726097
+            ],
+            [
+              -46.645841159999996,
+              -23.547266009999998
+            ],
+            [
+              -46.64592396,
+              -23.547348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47618,
+        "lg_seg_id": 306733,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.660794839999994,
+              -23.55403302
+            ],
+            [
+              -46.66099608,
+              -23.55399297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47586,
+        "lg_seg_id": 54879,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.646722079999996,
+              -23.54719698
+            ],
+            [
+              -46.64729196,
+              -23.54725998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47581,
+        "lg_seg_id": 54681,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2742,
+        "lg_ini_imp": 2743,
+        "lg_fim_par": 2876,
+        "lg_fim_imp": 2877,
+        "lg_ordem": 7,
+        "lg_or_geom": "",
+        "classifica": "COLETORA",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.665775079999996,
+              -23.55831198
+            ],
+            [
+              -46.665682919999995,
+              -23.55822099
+            ],
+            [
+              -46.66516308,
+              -23.557724009999998
+            ],
+            [
+              -46.66485384,
+              -23.55743304
+            ],
+            [
+              -46.664849159999996,
+              -23.55742899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47572,
+        "lg_seg_id": 53467,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2510,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 2530,
+        "lg_fim_imp": 0,
+        "lg_ordem": 11,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.663416,
+              -23.555961989999997
+            ],
+            [
+              -46.663250039999994,
+              -23.555842019999996
+            ],
+            [
+              -46.66320396,
+              -23.55580503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47601,
+        "lg_seg_id": 269994,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 561,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 661,
+        "lg_ordem": 51,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64777004,
+              -23.54760099
+            ],
+            [
+              -46.647033119999996,
+              -23.547365009999996
+            ],
+            [
+              -46.64682396,
+              -23.54732001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47591,
+        "lg_seg_id": 56463,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 203,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 401,
+        "lg_ordem": 62,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.645310159999994,
+              -23.54748102
+            ],
+            [
+              -46.64500416,
+              -23.547547979999997
+            ],
+            [
+              -46.643205959999996,
+              -23.547918959999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47561,
+        "lg_seg_id": 44429,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 3316,
+        "lg_ini_imp": 3317,
+        "lg_fim_par": 3400,
+        "lg_fim_imp": 3401,
+        "lg_ordem": 3,
+        "lg_or_geom": "",
+        "classifica": "COLETORA",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.669388039999994,
+              -23.561774009999997
+            ],
+            [
+              -46.669241879999994,
+              -23.56163496
+            ],
+            [
+              -46.66888908,
+              -23.56129296
+            ],
+            [
+              -46.66885308,
+              -23.56126101
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47557,
+        "lg_seg_id": 43227,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 1401,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 1643,
+        "lg_ordem": 31,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65652812,
+              -23.551417979999997
+            ],
+            [
+              -46.65621384,
+              -23.551255979999997
+            ],
+            [
+              -46.654662959999996,
+              -23.550438959999997
+            ],
+            [
+              -46.654467839999995,
+              -23.550332039999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47605,
+        "lg_seg_id": 300682,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 604,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 760,
+        "lg_fim_imp": 0,
+        "lg_ordem": 52,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64854584,
+              -23.54764797
+            ],
+            [
+              -46.64729196,
+              -23.54725998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47602,
+        "lg_seg_id": 279798,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 2171,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 2471,
+        "lg_ordem": 59,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.660794839999994,
+              -23.55403302
+            ],
+            [
+              -46.66096116,
+              -23.55417099
+            ],
+            [
+              -46.66194684,
+              -23.554963979999997
+            ],
+            [
+              -46.662652079999994,
+              -23.55554304
+            ],
+            [
+              -46.66278996,
+              -23.55566103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47564,
+        "lg_seg_id": 53210,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2530,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 2610,
+        "lg_fim_imp": 0,
+        "lg_ordem": 12,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.663416,
+              -23.555961989999997
+            ],
+            [
+              -46.663737839999996,
+              -23.556052979999997
+            ],
+            [
+              -46.664265959999994,
+              -23.556233969999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47603,
+        "lg_seg_id": 300680,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2180,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 2470,
+        "lg_fim_imp": 0,
+        "lg_ordem": 58,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.662900119999996,
+              -23.55555699
+            ],
+            [
+              -46.661300999999995,
+              -23.55424299
+            ],
+            [
+              -46.66099608,
+              -23.55399297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47563,
+        "lg_seg_id": 51475,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 400,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 424,
+        "lg_fim_imp": 0,
+        "lg_ordem": 52,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.645260119999996,
+              -23.54730201
+            ],
+            [
+              -46.64556792,
+              -23.54726097
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47579,
+        "lg_seg_id": 54447,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 1898,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 1950,
+        "lg_fim_imp": 0,
+        "lg_ordem": 27,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.659111839999994,
+              -23.55265098
+            ],
+            [
+              -46.658877839999995,
+              -23.552492039999997
+            ],
+            [
+              -46.65861792,
+              -23.55233904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47595,
+        "lg_seg_id": 56467,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 401,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 453,
+        "lg_ordem": 60,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.645819919999994,
+              -23.547369959999997
+            ],
+            [
+              -46.645310159999994,
+              -23.54748102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47597,
+        "lg_seg_id": 269979,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 1301,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 1401,
+        "lg_ordem": 34,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.654467839999995,
+              -23.550332039999997
+            ],
+            [
+              -46.65411792,
+              -23.550140969999998
+            ],
+            [
+              -46.653720119999996,
+              -23.54991201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47614,
+        "lg_seg_id": 306593,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 463,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 561,
+        "lg_ordem": 57,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64682396,
+              -23.54732001
+            ],
+            [
+              -46.64656692,
+              -23.547292019999997
+            ],
+            [
+              -46.64638583999999,
+              -23.54728599
+            ],
+            [
+              -46.64620512,
+              -23.547295979999998
+            ],
+            [
+              -46.64606616,
+              -23.54731704
+            ],
+            [
+              -46.64592396,
+              -23.547348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47599,
+        "lg_seg_id": 269989,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2082,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 2180,
+        "lg_fim_imp": 0,
+        "lg_ordem": 22,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.66099608,
+              -23.55399297
+            ],
+            [
+              -46.660601879999994,
+              -23.553668969999997
+            ],
+            [
+              -46.66025808,
+              -23.553429029999997
+            ],
+            [
+              -46.66013604,
+              -23.553345959999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47598,
+        "lg_seg_id": 269987,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 504,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 554,
+        "lg_fim_imp": 0,
+        "lg_ordem": 55,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64667995999999,
+              -23.547070979999997
+            ],
+            [
+              -46.646465039999995,
+              -23.54707503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47590,
+        "lg_seg_id": 56462,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 163,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 183,
+        "lg_ordem": 66,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.642686839999996,
+              -23.54801796
+            ],
+            [
+              -46.64256803999999,
+              -23.54803101
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47552,
+        "lg_seg_id": 41741,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.659111839999994,
+              -23.55265098
+            ],
+            [
+              -46.659094919999994,
+              -23.552835029999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47612,
+        "lg_seg_id": 300701,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 2471,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 2521,
+        "lg_ordem": 12,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.66321799999999,
+              -23.55600204
+            ],
+            [
+              -46.663107839999995,
+              -23.555933009999997
+            ],
+            [
+              -46.66278996,
+              -23.55566103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47575,
+        "lg_seg_id": 53624,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 464,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 484,
+        "lg_fim_imp": 0,
+        "lg_ordem": 57,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.646227079999996,
+              -23.54707899
+            ],
+            [
+              -46.64609711999999,
+              -23.54708097
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47566,
+        "lg_seg_id": 53287,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 1055,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 1301,
+        "lg_ordem": 35,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.653720119999996,
+              -23.54991201
+            ],
+            [
+              -46.65249108,
+              -23.549202989999998
+            ],
+            [
+              -46.65219192,
+              -23.54904603
+            ],
+            [
+              -46.65203604,
+              -23.54898699
+            ],
+            [
+              -46.65179016,
+              -23.548906979999998
+            ],
+            [
+              -46.65165588,
+              -23.548860989999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47562,
+        "lg_seg_id": 44430,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 3168,
+        "lg_ini_imp": 3169,
+        "lg_fim_par": 3316,
+        "lg_fim_imp": 3317,
+        "lg_ordem": 4,
+        "lg_or_geom": "",
+        "classifica": "COLETORA",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.66885308,
+              -23.56126101
+            ],
+            [
+              -46.668768119999996,
+              -23.56118604
+            ],
+            [
+              -46.66831308,
+              -23.560748009999998
+            ],
+            [
+              -46.66788792,
+              -23.560345979999997
+            ],
+            [
+              -46.66777704,
+              -23.560237979999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47609,
+        "lg_seg_id": 300688,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 3400,
+        "lg_ini_imp": 3401,
+        "lg_fim_par": 3496,
+        "lg_fim_imp": 3497,
+        "lg_ordem": 2,
+        "lg_or_geom": "",
+        "classifica": "COLETORA",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.669924079999994,
+              -23.562288
+            ],
+            [
+              -46.66982184,
+              -23.56218702
+            ],
+            [
+              -46.66939092,
+              -23.561776979999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47604,
+        "lg_seg_id": 300681,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 1950,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 2082,
+        "lg_fim_imp": 0,
+        "lg_ordem": 24,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.66013604,
+              -23.553345959999998
+            ],
+            [
+              -46.65953808,
+              -23.552939969999997
+            ],
+            [
+              -46.659111839999994,
+              -23.55265098
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47582,
+        "lg_seg_id": 54682,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2610,
+        "lg_ini_imp": 2611,
+        "lg_fim_par": 2742,
+        "lg_fim_imp": 2743,
+        "lg_ordem": 8,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.664849159999996,
+              -23.55742899
+            ],
+            [
+              -46.664772119999995,
+              -23.557350959999997
+            ],
+            [
+              -46.663956,
+              -23.55655203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47577,
+        "lg_seg_id": 53803,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 671,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 795,
+        "lg_ordem": 43,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.649013839999995,
+              -23.548012019999998
+            ],
+            [
+              -46.647866879999995,
+              -23.547634019999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47567,
+        "lg_seg_id": 53288,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 1699,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 1951,
+        "lg_ordem": 26,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.659094919999994,
+              -23.552835029999997
+            ],
+            [
+              -46.658765159999994,
+              -23.552609039999997
+            ],
+            [
+              -46.658499119999995,
+              -23.55243804
+            ],
+            [
+              -46.65829608,
+              -23.55232302
+            ],
+            [
+              -46.657337039999994,
+              -23.551838009999997
+            ],
+            [
+              -46.65701196,
+              -23.55166899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47596,
+        "lg_seg_id": 56468,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 162,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 400,
+        "lg_fim_imp": 0,
+        "lg_ordem": 61,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.645260119999996,
+              -23.54730201
+            ],
+            [
+              -46.644708959999996,
+              -23.54742099
+            ],
+            [
+              -46.64284092,
+              -23.54782203
+            ],
+            [
+              -46.64271888,
+              -23.54787099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47554,
+        "lg_seg_id": 41743,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.654632,
+              -23.55021999
+            ],
+            [
+              -46.654467839999995,
+              -23.550332039999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47592,
+        "lg_seg_id": 56464,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 193,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 203,
+        "lg_ordem": 63,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.643205959999996,
+              -23.547918959999997
+            ],
+            [
+              -46.642838039999994,
+              -23.547995009999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47558,
+        "lg_seg_id": 43318,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 1,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 133,
+        "lg_ordem": 67,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64256803999999,
+              -23.54803101
+            ],
+            [
+              -46.64209716,
+              -23.547966029999998
+            ],
+            [
+              -46.64128787999999,
+              -23.54785101
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47583,
+        "lg_seg_id": 54683,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 2571,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 2611,
+        "lg_ordem": 9,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.663956,
+              -23.55655203
+            ],
+            [
+              -46.663950959999994,
+              -23.556546989999998
+            ],
+            [
+              -46.66370688,
+              -23.55628797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47556,
+        "lg_seg_id": 42834,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 2470,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 2510,
+        "lg_fim_imp": 0,
+        "lg_ordem": 13,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.66320396,
+              -23.55580503
+            ],
+            [
+              -46.663049879999996,
+              -23.555679029999997
+            ],
+            [
+              -46.662900119999996,
+              -23.55555699
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47610,
+        "lg_seg_id": 300699,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 784,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 1160,
+        "lg_fim_imp": 0,
+        "lg_ordem": 37,
+        "lg_or_geom": "",
+        "classifica": "",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.652419079999994,
+              -23.54896899
+            ],
+            [
+              -46.652410079999996,
+              -23.548964039999998
+            ],
+            [
+              -46.652165999999994,
+              -23.54885496
+            ],
+            [
+              -46.65192587999999,
+              -23.548768019999997
+            ],
+            [
+              -46.65155291999999,
+              -23.548649039999997
+            ],
+            [
+              -46.651494959999994,
+              -23.54862996
+            ],
+            [
+              -46.65116088,
+              -23.548517999999998
+            ],
+            [
+              -46.649278079999995,
+              -23.547921029999998
+            ],
+            [
+              -46.64903508,
+              -23.547858029999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47587,
+        "lg_seg_id": 54880,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 554,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 604,
+        "lg_fim_imp": 0,
+        "lg_ordem": 54,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64729196,
+              -23.54725998
+            ],
+            [
+              -46.64667995999999,
+              -23.547070979999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47585,
+        "lg_seg_id": 54842,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.64831796,
+              -23.54747796
+            ],
+            [
+              -46.64854584,
+              -23.54764797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47593,
+        "lg_seg_id": 56465,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 183,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 193,
+        "lg_ordem": 64,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.642838039999994,
+              -23.547995009999998
+            ],
+            [
+              -46.64277,
+              -23.548008959999997
+            ],
+            [
+              -46.642686839999996,
+              -23.54801796
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47613,
+        "lg_seg_id": 300704,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 1643,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 1699,
+        "lg_ordem": 29,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65701196,
+              -23.55166899
+            ],
+            [
+              -46.65652812,
+              -23.551417979999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47600,
+        "lg_seg_id": 269993,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 1646,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 1898,
+        "lg_fim_imp": 0,
+        "lg_ordem": 28,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65861792,
+              -23.55233904
+            ],
+            [
+              -46.65846096,
+              -23.55224598
+            ],
+            [
+              -46.658111039999994,
+              -23.552063009999998
+            ],
+            [
+              -46.656852119999996,
+              -23.551404029999997
+            ],
+            [
+              -46.65668616,
+              -23.551317989999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47551,
+        "lg_seg_id": 41740,
+        "origem": "PMSP",
+        "lg_id": 34891,
+        "lg_codlog": "052450",
+        "logradouro": "R da Consolacao",
+        "lg_tipo": "R",
+        "lg_titulo": "",
+        "lg_prep": "DA",
+        "lg_nome": "CONSOLACAO",
+        "lg_or_deno": "",
+        "lg_ind_ofi": "OFICIAL",
+        "lg_ini_par": 0,
+        "lg_ini_imp": 0,
+        "lg_fim_par": 0,
+        "lg_fim_imp": 0,
+        "lg_ordem": 0,
+        "lg_or_geom": "",
+        "classifica": "ARTERIAL",
+        "porte": 2,
+        "cep": "01301000",
+        "eixos": 1,
+        "name": "052450_r_da_consolacao",
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -46.65993912,
+              -23.55339897
+            ],
+            [
+              -46.66013604,
+              -23.553345959999998
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
